@@ -8,13 +8,13 @@ Site sahibi ise admin paneli üzerinden içerik ve kullanıcı yönetimini gerç
 
 ## 📸 Proje Önizleme
 
-|              🏠 Ana Sayfa              |          📰 Blog Bölümü           |
-| :------------------------------------: | :-------------------------------: |
-| ![Ana Sayfa](assets/Gösterim/Home.png) | ![Blog](assets/Gösterim/Blog.png) |
+| 🏠 Ana Sayfa | 📰 Blog Bölümü |
+| :----------: | :------------: |
+| ![Ana Sayfa](PixelEvren_FrontEnd/assets/Gösterim/Home.png) | ![Blog](PixelEvren_FrontEnd/assets/Gösterim/Blog.png) |
 
-|           💬 Forum Bölümü           |           🛠 Admin Paneli           |
-| :---------------------------------: | :---------------------------------: |
-| ![Forum](assets/Gösterim/Forum.png) | ![Admin](assets/Gösterim/Admin.png) |
+| 💬 Forum Bölümü | 🛠 Admin Paneli |
+| :-------------: | :-------------: |
+| ![Forum](PixelEvren_FrontEnd/assets/Gösterim/Forum.png) | ![Admin](PixelEvren_FrontEnd/assets/Gösterim/Admin.png) |
 
 ---
 
