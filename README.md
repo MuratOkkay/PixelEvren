@@ -10,12 +10,11 @@ Site sahibi ise admin paneli üzerinden içerik ve kullanıcı yönetimini gerç
 
 | 🏠 Ana Sayfa | 📰 Blog Bölümü |
 | :----------: | :------------: |
-| ![Ana Sayfa](PixelEvren_FrontEnd/assets/Gösterim/Home.png) | ![Blog](PixelEvren_FrontEnd/assets/Gösterim/Blog.png) |
+| ![Ana Sayfa](PixelEvren_FrontEnd/src/assets/Gösterim/Home.png) | ![Blog](PixelEvren_FrontEnd/src/assets/Gösterim/Blog.png) |
 
 | 💬 Forum Bölümü | 🛠 Admin Paneli |
 | :-------------: | :-------------: |
-| ![Forum](PixelEvren_FrontEnd/assets/Gösterim/Forum.png) | ![Admin](PixelEvren_FrontEnd/assets/Gösterim/Admin.png) |
-
+| ![Forum](PixelEvren_FrontEnd/src/assets/Gösterim/Forum.png) | ![Admin](PixelEvren_FrontEnd/src/assets/Gösterim/Admin.png) |
 ---
 
 ## 🌐 Özellikler
