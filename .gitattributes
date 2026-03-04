@@ -1,0 +1,18 @@
+# Tüm metin dosyaları için LF kullan
+* text=auto eol=lf
+
+# JavaScript ve TypeScript dosyaları
+*.js text eol=lf
+*.ts text eol=lf
+
+# CSS ve HTML dosyaları
+*.css text eol=lf
+*.html text eol=lf
+
+# JSON ve config dosyaları
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Markdown ve dokümantasyon
+*.md text eol=lf
